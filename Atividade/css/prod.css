@@ -1,0 +1,28 @@
+body {
+    background-color: #F9E79F;
+    width: 100%;
+    height: 100%;
+}
+.Lim{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.Blom{
+    padding-top: 50px;
+}
+.Blom h2 {
+    font-size: 28px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.Blom p{
+    padding-left: 10px;
+    font-size: 20px;
+    font-style: italic;
+}
+.Blom img {
+    width: 60%;
+    height: auto;
+    margin: 10px 10%;
+    border-radius: 10%;
+}
